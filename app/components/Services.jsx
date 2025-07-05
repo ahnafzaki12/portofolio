@@ -121,7 +121,6 @@ const Services = () => {
 
                 {/* Read More Link */}
                 <a
-                  href={link}
                   className="inline-flex items-center gap-2 text-gray-700 hover:text-gray-900 font-medium transition-all duration-300 group-hover:gap-3"
                 >
                   <span>Selengkapnya</span>

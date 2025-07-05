@@ -85,7 +85,7 @@ const Contact = () => {
                         className={`transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
                             }`}
                     >
-                        <h4 className="text-gray-600 text-lg font-medium mb-2 tracking-wide uppercase">Connect with me</h4>
+                        <h4 className="text-gray-600 text-lg font-medium mb-2 tracking-wide uppercase">Hubungi Saya</h4>
                     </div>
                     <div
                         className={`transition-all duration-1000 delay-200 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
