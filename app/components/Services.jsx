@@ -118,17 +118,6 @@ const Services = () => {
                 <p className="text-gray-600 leading-relaxed mb-6 group-hover:text-gray-700 transition-colors duration-300">
                   {description}
                 </p>
-
-                {/* Read More Link */}
-                <a
-                  className="inline-flex items-center gap-2 text-gray-700 hover:text-gray-900 font-medium transition-all duration-300 group-hover:gap-3"
-                >
-                  <span>Selengkapnya</span>
-                  <div className="flex items-center gap-1">
-                    <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
-                    <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-all duration-300" />
-                  </div>
-                </a>
               </div>
 
               {/* Hover Effect Border */}
