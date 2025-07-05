@@ -39,10 +39,17 @@ const Header = () => {
                 >
                     <div className="relative inline-block">
                         <Image
-                            src={assets.profile_img || "/placeholder.svg?height=128&width=128"}
-                            alt="Ahnaf Zaki"
-                            className="rounded-full w-32 h-32 object-cover mx-auto shadow-2xl ring-4 ring-white transition-transform duration-300 hover:scale-105"
-                        />
+  src={assets.profile_img || "/placeholder.svg?height=128&width=128"}
+  alt="Ahnaf Zaki"
+  width={128}
+  height={128}
+  className="
+    rounded-full w-32 h-32
+    object-cover object-[50%_15%]   /* 50% X, 15% Y → turun ~15 % */
+    mx-auto shadow-2xl ring-4 ring-white
+    transition-transform duration-300 hover:scale-105
+  "
+/>
                         <div className="absolute inset-0 rounded-full opacity-20 animate-pulse"></div>
                     </div>
                 </div>
