@@ -53,28 +53,22 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "Github",
-      href: "https://github.com",
+      href: "https://github.com/ahnafzaki12",
       icon: Github,
       color: "hover:text-gray-300",
     },
     {
       name: "LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/ahnaf-zaki/",
       icon: Linkedin,
       color: "hover:text-blue-400",
     },
     {
       name: "Instagram",
-      href: "https://instagram.com",
+      href: "https://www.instagram.com/ahnafzaki12/",
       icon: Instagram,
       color: "hover:text-pink-400",
     },
-    {
-      name: "Facebook",
-      href: "https://facebook.com",
-      icon: Facebook,
-      color: "hover:text-blue-400",
-    }
   ]
 
   const quickLinks = [
