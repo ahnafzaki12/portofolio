@@ -102,7 +102,7 @@ const Header = () => {
                         </a>
 
                         <a
-                            href="/sample-resume.pdf"
+                            href="/CV_M Ahnaf Zaki.pdf"
                             download
                             className="group px-8 py-4 border-2 border-gray-300 text-gray-700 rounded-full hover:border-gray-900 hover:text-gray-900 transition-all duration-300 hover:shadow-lg hover:scale-105 flex items-center gap-3 font-medium text-lg min-w-[200px] justify-center"
                         >
