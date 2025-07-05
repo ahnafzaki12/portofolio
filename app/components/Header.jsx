@@ -82,7 +82,7 @@ const Header = () => {
                     className={`transition-all duration-1000 delay-600 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
                 >
                     <p className="max-w-2xl mx-auto text-gray-600 text-lg md:text-xl leading-relaxed mb-10">
-                        Saya adalah seorang Fullstack Developer dari Surabaya, Indonesia, dengan pengalaman mengembangkan aplikasi web end-to-end melalui proyek akademik dan inisiatif pribadi.
+                        Mahasiswa Sistem Informasi dengan fokus pada pengembangan web fullstack, aktif mengerjakan proyek akademik dan mandiri untuk membangun aplikasi end-to-end.
                     </p>
                 </div>
 
