@@ -110,7 +110,19 @@ export const workData = [
     bgImage: '/work-5.png',
     link: 'https://github.com/ahnafzaki12/Aksara-Next-Version',
   },
-]
+  {
+    title: 'Web Construction Frontend',
+    description: 'Frontend aplikasi web konstruksi menggunakan React.js. Dibuat dengan fokus pada desain responsif dan antarmuka pengguna yang modern. Dilengkapi dengan fitur layanan, proyek, dan artikel. Menggunakan GitHub sebagai version control.',
+    bgImage: '/work-6.png',
+    link: 'https://github.com/ahnafzaki12/frontend-construction',
+  },
+  {
+    title: 'Web Construction Backend',
+    description: 'Backend aplikasi web konstruksi menggunakan Laravel. Menyediakan API dan manajemen data untuk frontend dengan struktur yang terorganisir dan skalabel.',
+    bgImage: '/work-7.png',
+    link: 'https://github.com/ahnafzaki12/backend-construction',
+  }
+];
 
 
 
