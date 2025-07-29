@@ -153,7 +153,7 @@ export const infoList = [
   {
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
-    title: 'Bahasa Pemrograman',
+    title: 'Bahasa Pemrograman dan Tools Pengembangan',
     description: 'HTML, CSS, JavaScript, React.js, Next.js, Node.js, Laravel, SQL'
   },
   {
