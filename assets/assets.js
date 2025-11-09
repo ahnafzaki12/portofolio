@@ -121,6 +121,12 @@ export const workData = [
     description: 'Backend aplikasi web konstruksi menggunakan Laravel. Menyediakan API dan manajemen data untuk frontend dengan struktur yang terorganisir dan skalabel.',
     bgImage: '/work-7.png',
     link: 'https://github.com/ahnafzaki12/backend-construction',
+  },
+  {
+    title: 'Regar Mart - ECommerce',
+    description: 'Aplikasi e-commerce modern berbasis Next.js dengan fitur katalog, keranjang, dan checkout. Admin dapat mengelola produk, kategori, dan pesanan melalui dashboard interaktif.',
+    bgImage: '/work-8.png',
+    link: 'https://github.com/FlyHigh404/regarmart-ecommerce',
   }
 ];
 
