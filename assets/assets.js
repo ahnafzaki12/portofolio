@@ -113,13 +113,13 @@ export const workData = [
   {
     title: 'Web Construction Frontend',
     description: 'Frontend aplikasi web konstruksi menggunakan React.js. Dibuat dengan fokus pada desain responsif dan antarmuka pengguna yang modern. Dilengkapi dengan fitur layanan, proyek, dan artikel. Menggunakan GitHub sebagai version control.',
-    bgImage: '/work-6.png',
+    bgImage: '/work-7.png',
     link: 'https://github.com/ahnafzaki12/frontend-construction',
   },
   {
     title: 'Web Construction Backend',
     description: 'Backend aplikasi web konstruksi menggunakan Laravel. Menyediakan API dan manajemen data untuk frontend dengan struktur yang terorganisir dan skalabel.',
-    bgImage: '/work-7.png',
+    bgImage: '/work-6.png',
     link: 'https://github.com/ahnafzaki12/backend-construction',
   },
   {
@@ -160,7 +160,7 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: 'Bahasa Pemrograman dan Tools Pengembangan',
-    description: 'HTML, CSS, JavaScript, React.js, Next.js, Node.js, Laravel, SQL'
+    description: 'HTML, CSS, JavaScript, React.js, Next.js, Node.js, Laravel, SQL, PostgreSQL, Git, VSCode'
   },
   {
     icon: assets.edu_icon,
@@ -172,7 +172,7 @@ export const infoList = [
     icon: assets.project_icon,
     iconDark: assets.project_icon_dark,
     title: 'Proyek',
-    description: 'Telah membangun lebih dari 3 proyek'
+    description: 'Telah membangun lebih dari 5 proyek'
   }
 ];
 

@@ -101,7 +101,7 @@ const Footer = () => {
             >
               <div className="mb-6">
                 <p className="text-gray-300 text-lg leading-relaxed max-w-md">
-                  Fullstack Developer dengan semangat membangun pengalaman web terbaik menggunakan teknologi terkini.
+                  Software Engineer dengan semangat membangun pengalaman terbaik menggunakan teknologi terkini.
                 </p>
               </div>
 
@@ -177,11 +177,7 @@ const Footer = () => {
             <div className="flex flex-col gap-4 md:flex-row md:justify-between md:items-center text-center md:text-left">
               {/* Left Text */}
               <div className="flex flex-col sm:flex-row items-center gap-2 text-gray-300 justify-center md:justify-start">
-                <span>&copy; 2025 Ahnaf Zaki. Seluruh hak dilindungi.</span>
-                <span className="hidden sm:inline">•</span>
-                <span className="flex items-center gap-1">
-                  Dibuat dengan <Heart className="w-4 h-4 text-red-400 animate-pulse" /> di Surabaya
-                </span>
+                <span>&copy; 2025 Ahnaf Zaki</span>
               </div>
 
               {/* Right Links */}

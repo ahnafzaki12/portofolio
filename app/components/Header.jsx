@@ -74,11 +74,11 @@ const Header = () => {
                 >
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-6 leading-tight">
                         <span className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent">
-                            Fullstack web developer
+                            Software Engineer
                         </span>
                         <br />
                         <span className="text-gray-600 text-xl sm:text-2xl lg:text-3xl xl:text-4xl font-normal">
-                            Fullstack Web Developer dengan ketertarikan pada pengembangan sistem berbasis teknologi terbaru
+                            Software Engineer dengan ketertarikan pada pengembangan sistem berbasis teknologi terbaru
                         </span>
 
                     </h1>
@@ -89,7 +89,7 @@ const Header = () => {
                     className={`transition-all duration-1000 delay-600 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
                 >
                     <p className="max-w-2xl mx-auto text-gray-600 text-lg md:text-xl leading-relaxed mb-10">
-                        Mahasiswa Sistem Informasi dengan fokus pada pengembangan web fullstack, aktif mengerjakan proyek akademik dan mandiri untuk membangun aplikasi end-to-end.
+                        Mahasiswa Sistem Informasi dengan fokus pada pengembangan software, aktif mengerjakan proyek akademik, magang, dan mandiri untuk membangun aplikasi end-to-end.
                     </p>
                 </div>
 

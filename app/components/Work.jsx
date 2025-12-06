@@ -70,7 +70,7 @@ const Work = () => {
                             }`}
                     >
                         <p className="text-gray-600 text-lg md:text-xl leading-relaxed max-w-3xl mx-auto">
-                            Halo! Selamat datang di portofolio saya. Di sini, kamu bisa melihat berbagai proyek yang saya kerjakan sebagai Fullstack Developer, mulai dari tampilan hingga logika server.
+                            Halo! Selamat datang di portofolio saya. Di sini, kamu bisa melihat berbagai proyek yang saya kerjakan, mulai dari tampilan hingga logika server.
                         </p>
                     </div>
                 </div>
