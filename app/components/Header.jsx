@@ -74,11 +74,11 @@ const Header = () => {
                 >
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-6 leading-tight">
                         <span className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent">
-                            Software Engineer
+                            Software Developer
                         </span>
                         <br />
                         <span className="text-gray-600 text-xl sm:text-2xl lg:text-3xl xl:text-4xl font-normal">
-                            Software Engineer dengan ketertarikan pada pengembangan sistem berbasis teknologi terbaru
+                            Software Developer dengan ketertarikan pada pengembangan sistem berbasis teknologi terbaru
                         </span>
 
                     </h1>

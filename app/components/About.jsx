@@ -96,7 +96,7 @@ const About = () => {
                 }`}
             >
               <p className="text-gray-600 text-sm lg:text-base leading-relaxed mb-5">
-                Saya adalah mahasiswa Sistem Informasi dari Surabaya yang tertarik di bidang pengembangan web. Saya memiliki pengalaman membangun aplikasi web secara menyeluruh (frontend dan backend) melalui proyek kuliah dan pribadi, serta terbiasa menggunakan teknologi seperti Laravel, React, dan MySQL. Saya siap belajar dan berkontribusi sebagai Fullstack Developer di lingkungan profesional.
+                Saya adalah mahasiswa Sistem Informasi dari Surabaya yang tertarik di bidang pengembangan web. Saya memiliki pengalaman membangun aplikasi web secara menyeluruh (frontend dan backend) melalui proyek kuliah dan magang. Saya siap belajar dan berkontribusi sebagai Software Developer di lingkungan profesional.
               </p>
             </div>
 

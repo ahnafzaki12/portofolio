@@ -127,6 +127,12 @@ export const workData = [
     description: 'Aplikasi e-commerce modern berbasis Next.js dengan fitur katalog, keranjang, dan checkout. Admin dapat mengelola produk, kategori, dan pesanan melalui dashboard interaktif.',
     bgImage: '/work-8.png',
     link: 'https://github.com/FlyHigh404/regarmart-ecommerce',
+  },
+  {
+    title: 'Customer Insight & Segmentation Platform',
+    description: 'Aplikasi analitik bisnis berbasis web untuk segmentasi pelanggan dan perumusan strategi bisnis menggunakan RFM Analysis dan K-Means Clustering. Menyediakan insight performa bisnis, distribusi revenue per cluster, serta rekomendasi strategi berbasis data.',
+    bgImage: '/work-9.png',
+    link: 'https://github.com/ahnafzaki12/clustering',
   }
 ];
 
@@ -160,7 +166,7 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: 'Bahasa Pemrograman dan Tools Pengembangan',
-    description: 'HTML, CSS, JavaScript, React.js, Next.js, Node.js, Laravel, SQL, PostgreSQL, Git, VSCode'
+    description: 'HTML, CSS, JavaScript, React.js, Next.js, Express.js, Laravel, Tailwind CSS, MySQL, PostgreSQL, Git, Github'
   },
   {
     icon: assets.edu_icon,
