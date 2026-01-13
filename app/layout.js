@@ -12,9 +12,6 @@ const ovo = Ovo({
 export const metadata = {
   title: "Portofolio - Ahnaf Zaki",
   description: "",
-  icons: {
-    icon: "/tab.png",
-  },
 };
 
 export default function RootLayout({ children }) {
