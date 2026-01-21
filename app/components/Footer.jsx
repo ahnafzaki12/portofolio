@@ -101,7 +101,7 @@ const Footer = () => {
             >
               <div className="mb-6">
                 <p className="text-gray-300 text-lg leading-relaxed max-w-md">
-                  Software Engineer dengan semangat membangun pengalaman terbaik menggunakan teknologi terkini.
+                  Software Developer dengan semangat membangun pengalaman terbaik menggunakan teknologi terkini.
                 </p>
               </div>
 
