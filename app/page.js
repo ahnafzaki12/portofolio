@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
+import Tools from "./components/Tools";
 import Work from "./components/Work";
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <Header />
       <About />
       <Services />
+      <Tools />
       <Work />
       <Contact />
       <Footer />

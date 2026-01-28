@@ -21,6 +21,7 @@ const Navbar = () => {
     { href: "#top", label: "Beranda" },
     { href: "#about", label: "Tentang Saya" },
     { href: "#services", label: "Layanan" },
+    { href: "#tools", label: "Teknologi" },
     { href: "#work", label: "Portofolio" },
     { href: "#contact", label: "Kontak" },
   ]
